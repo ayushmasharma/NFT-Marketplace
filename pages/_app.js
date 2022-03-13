@@ -28,7 +28,7 @@ function MyApp({ Component, pageProps }) {
       )}
       {!loading && (
         <>
-        <nav className="p-6">
+        <nav className="border-b p-6">
         <p className="text-6xl font-bold" 
            style={{
              textAlign:"center", 
