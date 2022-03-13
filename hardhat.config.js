@@ -29,4 +29,5 @@ module.exports = {
   }
 }
 
-//here I've configured the local Hardhat development environment as well as the Mumbai testnet. 
+//here I've configured the local Hardhat development environment as well as the Mainnet testnet.
+//If it shows any error try commenting the mainnet code block
