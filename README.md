@@ -1,4 +1,4 @@
-# Basic Sample Hardhat Project
+# NFTgram - Building, deploying and testing out a full stack NFT marketplace on localhost and Mainnet
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
