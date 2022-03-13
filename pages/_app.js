@@ -33,7 +33,7 @@ function MyApp({ Component, pageProps }) {
            style={{
              textAlign:"center", 
              fontFamily:"DancingScript", 
-          }}>NFTGram</p>
+          }}>NFTgram</p>
         <div className="flex mt-4" style={{justifyContent:"center"}}>
           <Link href="/">
             <a className="mr-6 text-pink-500">
